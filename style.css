@@ -1,0 +1,62 @@
+body {
+	background-color: rgb(200,200,200);
+	all: 0;
+	color: black;
+}
+
+#strona {
+	margin: auto;
+	text-align: center;
+	padding: 0;
+	width: 80em;
+	background-color: red;
+}
+
+h1 {
+	text-align: center;
+	letter-spacing: 1em;
+	margin-bottom: 1em;
+	padding: 0;
+	height: 100%;
+}
+
+#karta {
+	margin: 0;
+	padding: 0px;
+}
+
+.liczba {
+	display: inline-block;
+	height: 5em;
+	width: 15em;
+	text-align: center;
+	border: solid rgb(50,80,0) .1em;
+	margin: 0;
+	padding: .2em;
+	line-height: 5em;
+	background-size: 100% 100%;
+	background-color: white;
+}
+
+#losowanie {
+	float: bottom;
+	border: red .03em dotted;
+	width: 3em;
+	text-align: center;
+	font-size: 10em;
+	line-height: 100%;
+	margin: auto;
+}
+
+#czas {
+	float: bottom;
+	width: 80em;
+	margin-bottom: 3em;
+	text-align: right;
+
+}
+#aktualny {
+	height: 1em;
+	background-color: white;
+	float: left;
+}
