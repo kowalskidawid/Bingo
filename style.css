@@ -60,3 +60,9 @@ h1 {
 	background-color: white;
 	float: left;
 }
+#start_div {
+	height: 5em;
+	line-height: 5em;
+	background-color: red;
+
+}
